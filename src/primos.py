@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Programa para mostrar todos los números primos en un intervalo dado
+# Programa para mostrar todos los números primos en un intervalo dado.
 
 # Definición del intervalo de búsqueda
 lower = 1  # Límite inferior del intervalo
