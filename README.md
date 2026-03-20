@@ -33,11 +33,5 @@ Programa que calcula e imprime todos los números primos entre 1 y 500.
 ## Figura
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-```
 
-Guardá y luego en la terminal:
-```
-cd ~/Desktop/UADER_IS2_Guiffrey
-git add .
-git commit -m "README.md completo"
-git push origin main
+
